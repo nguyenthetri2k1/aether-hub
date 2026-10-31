@@ -1,0 +1,67 @@
+{
+  "name": "Aether Hub",
+  "version": "1.0.0",
+  "updated": "2026-10-31",
+  "scripts": [
+    {
+      "name": "Fullbright",
+      "file": "scripts/fullbright.lua",
+      "category": "Visuals",
+      "description": "Brightness, clock time, fog and shadows in one pass."
+    },
+    {
+      "name": "Speed",
+      "file": "scripts/speed.lua",
+      "category": "Movement",
+      "description": "Set a clean walk speed without touching other properties."
+    },
+    {
+      "name": "Jump",
+      "file": "scripts/jump.lua",
+      "category": "Movement",
+      "description": "Switch to JumpPower and raise it to a comfortable value."
+    },
+    {
+      "name": "NoClip",
+      "file": "scripts/noclip.lua",
+      "category": "Movement",
+      "description": "Toggle collision off for the local character."
+    },
+    {
+      "name": "ESP",
+      "file": "scripts/esp.lua",
+      "category": "Visuals",
+      "description": "Highlight other players with a clean outline."
+    },
+    {
+      "name": "Fly",
+      "file": "scripts/fly.lua",
+      "category": "Movement",
+      "description": "Simple velocity flight with an F key toggle."
+    },
+    {
+      "name": "Anti-AFK",
+      "file": "scripts/antiafk.lua",
+      "category": "Utility",
+      "description": "Keeps the session alive when the client idles."
+    },
+    {
+      "name": "Teleport",
+      "file": "scripts/teleport.lua",
+      "category": "Utility",
+      "description": "Move the character to the mouse target."
+    },
+    {
+      "name": "FPS Boost",
+      "file": "scripts/fpsboost.lua",
+      "category": "Utility",
+      "description": "Lower shadows, fog and rendering quality."
+    },
+    {
+      "name": "Rejoin",
+      "file": "scripts/rejoin.lua",
+      "category": "Utility",
+      "description": "Reconnect to the current place."
+    }
+  ]
+}

